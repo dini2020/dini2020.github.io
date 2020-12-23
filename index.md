@@ -12,7 +12,7 @@ A lap, mely egyben első karácsonyi ajándékod is (meg persze a szüleidé), k
 
 <table style="width:100%">
   <tr>
-    <td>Jill</td>
+    <td>![](blake1.png)</td>
     <td>Smith</td>
   </tr>
   <tr>
