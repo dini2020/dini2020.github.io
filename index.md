@@ -17,7 +17,7 @@ A lap, mely egyben első karácsonyi ajándékod is (meg persze a szüleidé), k
   </tr>
   <tr>
     <td>Eve</td>
-    <td>Jackson</td>
+    <td><img src="blake2.png" width="100%"></td>
   </tr>
 </table>
 
