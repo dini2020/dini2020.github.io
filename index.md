@@ -6,9 +6,20 @@ A lap, mely egyben első karácsonyi ajándékod is (meg persze a szüleidé), k
 
 1. Mivel egy napon születtél a történelem egyik legnagyobb zsenijével, William Blake-kel, így nagybátyád készült neked két kis versfordítással _Az ártatlanság dalai (Songs of Innocence)_ című csodaszép cikluból, melyeket [itt](#blake) találsz meg. (Ha kicsit nagyobb leszel és lesz kedved, vesd majd össze Weöres Sándor fordításával!)
 
-2. Ami még ennél is sokkal izgalmasabb: Kecskés Péter, aki kissé fura figura ugyan, de kétségkívül az ország leginspiráltabb asztrológusa, készített neked egy asztrológiai elemzést, melyet [itt](#mester) hallgathatsz meg! (Vagyis talán egyelőre, első körben a szüleid! :)
+2. Ami még ennél is sokkal izgalmasabb: Kecskés Péter, aki kissé fura figura ugyan, de kétségkívül az ország leginspiráltabb asztrológusa, készített neked egy asztrológiai elemzést, melyet [itt](#mester) hallgathatsz meg! (Vagyis talán egyelőre, első körben a szüleid! :) 
 
 ## <a name="blake"></a>Az ártatlanság dalai
+
+<table style="width:100%">
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+  </tr>
+</table>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum quam at maximus tempor. Suspendisse bibendum nec elit quis venenatis. In eleifend ex eget ipsum pulvinar, in hendrerit risus fermentum. Ut gravida tellus enim. Phasellus viverra condimentum felis iaculis venenatis. Mauris non maximus lorem. Aliquam in mattis tellus. Cras consequat est quam, a euismod libero gravida id. Duis rutrum faucibus nibh ut vestibulum. Maecenas et eros sapien.
 
