@@ -12,7 +12,7 @@ A lap, mely egyben első karácsonyi ajándékod is (meg persze a szüleidé), k
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://github.com/dini2020/dini2020.github.io/blob/main/blake1.png" width="100%"></td>
+    <td><img src="blake1.png" width="100%"></td>
     <td>Smith</td>
   </tr>
   <tr>
