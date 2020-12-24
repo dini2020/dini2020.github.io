@@ -20,7 +20,7 @@ A lap, mely egyben első karácsonyi ajándékod is (meg persze a szüleidé), k
       Boldog, én vagyok,<br/>
       Öröm a nevem -<br/>
       Édes örömmel övezlek!<br/>
-      </p></td>
+      </p>
     <p style="text-align:center">
       Drága öröm,<br/>
       Édes öröm, csak két napos,<br/>
