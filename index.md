@@ -80,4 +80,6 @@ A lap, mely egyben első karácsonyi ajándékod is (meg persze a szüleidé), k
 
 ## <a name="asztro"></a>Csillag-bölcs-ő - azaz a horoszkópod
 
-lorem ipsum
+<audio controls>
+  <source src="DionuszioszHoroszkop.mp3" type="audio/mpeg">
+</audio>
