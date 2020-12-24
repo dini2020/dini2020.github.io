@@ -13,7 +13,21 @@ A lap, mely egyben első karácsonyi ajándékod is (meg persze a szüleidé), k
 <table style="width:100%">
   <tr>
     <td><img src="blake1.png" width="100%"></td>
-    <td>Smith</td>
+    <td><p style="text-align:center">
+      Nincsen nevem,
+      még csak két napos vagyok. -
+      Minek nevezlek?
+      Boldog, én vagyok,
+      Öröm a nevem -
+      Édes örömmel övezlek!
+      
+      Drága öröm,
+      Édes öröm, csak két napos,
+      Édes örömnek nevezlek:
+      Míg mosolyogsz,
+      Én dalolok,
+      Édes örömmel övezlek.
+      </p></td>
   </tr>
   <tr>
     <td>Eve</td>
